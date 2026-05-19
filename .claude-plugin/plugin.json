@@ -1,0 +1,10 @@
+{
+  "name": "nano-banana",
+  "version": "0.2.1",
+  "description": "RunAPI Nano Banana skill for Claude Code, Codex, Gemini CLI, Cursor, and 50+ agents",
+  "skills": [
+    {
+      "path": "skills/nano-banana/SKILL.md"
+    }
+  ]
+}
