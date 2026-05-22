@@ -1,5 +1,7 @@
 # Nano Banana API Skill for RunAPI
 
+[![skills.sh](https://skills.sh/b/runapi-ai/nano-banana)](https://skills.sh/runapi-ai/nano-banana)
+
 Generate and edit images with Nano Banana standard, pro, and edit models. This skill helps Claude Code, Codex, Gemini CLI, Cursor, and 50+ agents integrate Nano Banana through RunAPI.
 
 The canonical agent file is `skills/nano-banana/SKILL.md`.
