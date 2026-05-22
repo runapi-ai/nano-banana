@@ -9,12 +9,17 @@
 </p>
 
 <p align="center">
-  <a href="https://runapi.ai/models/nano-banana.md"><strong>Model Reference</strong></a> · <a href="https://skills.sh/runapi-ai/nano-banana"><strong>Install Skill</strong></a> · <a href="https://github.com/runapi-ai/cli"><strong>CLI</strong></a> · <a href="https://github.com/runapi-ai/nano-banana-sdk"><strong>SDK</strong></a>
+  <a href="https://runapi.ai/models/nano-banana"><strong>Model Reference</strong></a> · <a href="https://github.com/runapi-ai/cli"><strong>CLI</strong></a> · <a href="https://github.com/runapi-ai/nano-banana-sdk"><strong>SDK</strong></a>
 </p>
 
 <div align="center">
 
-[![skills.sh](https://skills.sh/b/runapi-ai/nano-banana)](https://skills.sh/runapi-ai/nano-banana)
+[![skills.sh](https://www.skills.sh/b/runapi-ai/nano-banana)](https://www.skills.sh/runapi-ai/nano-banana/nano-banana)
+[![ClawHub](https://img.shields.io/badge/ClawHub-runapi--nano--banana-111827)](https://clawhub.ai/runapi-ai/runapi-nano-banana)
+[![Model Reference](https://img.shields.io/badge/Model%20Reference-runapi.ai-0f766e)](https://runapi.ai/models/nano-banana)
+[![RunAPI CLI](https://img.shields.io/badge/RunAPI-CLI-111827)](https://github.com/runapi-ai/cli)
+[![Agent Skills](https://img.shields.io/badge/Agent%20Skills-skills.sh-2563eb)](https://www.skills.sh/runapi-ai)
+[![License](https://img.shields.io/github/license/runapi-ai/nano-banana)](https://github.com/runapi-ai/nano-banana/blob/main/LICENSE)
 
 </div>
 <br/>
