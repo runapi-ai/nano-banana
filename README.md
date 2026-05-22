@@ -12,7 +12,18 @@ The canonical agent file is `skills/nano-banana/SKILL.md`.
 npx skills add runapi-ai/nano-banana -g
 ```
 
-Or manually: clone this repo and copy `skills/nano-banana/` into your agent's skills directory.
+Or paste this prompt to your AI agent:
+
+```text
+Install the nano-banana skill for me:
+
+1. Clone https://github.com/runapi-ai/nano-banana
+2. Copy the skills/nano-banana/ directory into your
+   user-level skills directory (e.g. ~/.claude/skills/
+   for Claude Code, ~/.codex/skills/ for Codex).
+3. Verify that SKILL.md is present.
+4. Confirm the install path when done.
+```
 
 ## Quick example
 
