@@ -1,5 +1,11 @@
 # Changelog
 
+## [v0.2.11](https://github.com/runapi-ai/nano-banana/releases/tag/v0.2.11) - 2026-08-12
+
+### Changed
+- Generate the nano-banana skill from the shared RunAPI recipe with contract-discovered request rules and task behavior, direct local media inputs, complete result verification, and bounded recovery.
+
+
 ## [v0.2.10](https://github.com/runapi-ai/nano-banana/releases/tag/v0.2.10) - 2026-08-10
 
 ### Changed
